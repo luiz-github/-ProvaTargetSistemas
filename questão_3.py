@@ -1,6 +1,6 @@
 import json
 
-with open('teste tecnico/dadosQuestão_3.json', 'r') as file:
+with open('dadosQuestão_3.json', 'r') as file:
     data = json.load(file)
 
 faturamento = data["faturamento"]
