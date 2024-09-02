@@ -6,6 +6,6 @@ while k < indice:
     k += 1
     soma = soma + k
 
-print(soma)
+print(f'Resultado: {soma}')
 
 #Resultado = 91
